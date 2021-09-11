@@ -335,6 +335,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: PickUp (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 3370023237115069030, guid: 267e471c70c0d0640a96fab9473eb73f, type: 3}
+      propertyPath: m_UseGravity
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 267e471c70c0d0640a96fab9473eb73f, type: 3}
 --- !u!4 &56658022 stripped
@@ -492,6 +496,10 @@ PrefabInstance:
     - target: {fileID: 3165196769999479662, guid: 267e471c70c0d0640a96fab9473eb73f, type: 3}
       propertyPath: m_Name
       value: PickUp (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3370023237115069030, guid: 267e471c70c0d0640a96fab9473eb73f, type: 3}
+      propertyPath: m_UseGravity
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 267e471c70c0d0640a96fab9473eb73f, type: 3}
@@ -843,6 +851,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: PickUp (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 3370023237115069030, guid: 267e471c70c0d0640a96fab9473eb73f, type: 3}
+      propertyPath: m_UseGravity
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 267e471c70c0d0640a96fab9473eb73f, type: 3}
 --- !u!4 &654872286 stripped
@@ -1000,6 +1012,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: PickUp (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 3370023237115069030, guid: 267e471c70c0d0640a96fab9473eb73f, type: 3}
+      propertyPath: m_UseGravity
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 267e471c70c0d0640a96fab9473eb73f, type: 3}
 --- !u!4 &935402328 stripped
@@ -1062,6 +1078,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: PickUp (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 3370023237115069030, guid: 267e471c70c0d0640a96fab9473eb73f, type: 3}
+      propertyPath: m_UseGravity
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 267e471c70c0d0640a96fab9473eb73f, type: 3}
 --- !u!4 &985822822 stripped
@@ -1123,6 +1143,10 @@ PrefabInstance:
     - target: {fileID: 3165196769999479662, guid: 267e471c70c0d0640a96fab9473eb73f, type: 3}
       propertyPath: m_Name
       value: PickUp (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3370023237115069030, guid: 267e471c70c0d0640a96fab9473eb73f, type: 3}
+      propertyPath: m_UseGravity
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 267e471c70c0d0640a96fab9473eb73f, type: 3}
@@ -1227,6 +1251,10 @@ PrefabInstance:
     - target: {fileID: 3165196769999479662, guid: 267e471c70c0d0640a96fab9473eb73f, type: 3}
       propertyPath: m_Name
       value: PickUp (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3370023237115069030, guid: 267e471c70c0d0640a96fab9473eb73f, type: 3}
+      propertyPath: m_UseGravity
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 267e471c70c0d0640a96fab9473eb73f, type: 3}
@@ -1482,6 +1510,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: PickUp (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 3370023237115069030, guid: 267e471c70c0d0640a96fab9473eb73f, type: 3}
+      propertyPath: m_UseGravity
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 267e471c70c0d0640a96fab9473eb73f, type: 3}
 --- !u!4 &1604463952 stripped
@@ -1544,6 +1576,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: PickUp (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 3370023237115069030, guid: 267e471c70c0d0640a96fab9473eb73f, type: 3}
+      propertyPath: m_UseGravity
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 267e471c70c0d0640a96fab9473eb73f, type: 3}
 --- !u!4 &1765853909 stripped
@@ -1605,6 +1641,10 @@ PrefabInstance:
     - target: {fileID: 3165196769999479662, guid: 267e471c70c0d0640a96fab9473eb73f, type: 3}
       propertyPath: m_Name
       value: PickUp (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3370023237115069030, guid: 267e471c70c0d0640a96fab9473eb73f, type: 3}
+      propertyPath: m_UseGravity
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 267e471c70c0d0640a96fab9473eb73f, type: 3}
@@ -1702,6 +1742,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: PickUp (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 3370023237115069030, guid: 267e471c70c0d0640a96fab9473eb73f, type: 3}
+      propertyPath: m_UseGravity
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 267e471c70c0d0640a96fab9473eb73f, type: 3}
 --- !u!4 &2008600787 stripped
@@ -1763,6 +1807,14 @@ PrefabInstance:
     - target: {fileID: 3165196769999479662, guid: 267e471c70c0d0640a96fab9473eb73f, type: 3}
       propertyPath: m_Name
       value: PickUp
+      objectReference: {fileID: 0}
+    - target: {fileID: 3370023237115069030, guid: 267e471c70c0d0640a96fab9473eb73f, type: 3}
+      propertyPath: m_UseGravity
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3370023237115069030, guid: 267e471c70c0d0640a96fab9473eb73f, type: 3}
+      propertyPath: m_IsKinematic
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 267e471c70c0d0640a96fab9473eb73f, type: 3}
